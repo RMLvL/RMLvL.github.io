@@ -1,1 +1,1 @@
-[a relative link](another-page.md)
+[a relative link](index.html)
